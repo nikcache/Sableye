@@ -10,6 +10,5 @@ Component is responsible for:
                 - - Launching programs
                 - - Keyboard shortcuts
                     - - Any, but start with simple copy pasting
-                - - 
 
 *FoulPlay is the component that's responsible for error handling of MeanLook
