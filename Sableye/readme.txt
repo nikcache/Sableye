@@ -1,5 +1,5 @@
-Lvl 1 - Building documentation
-▂▁▁▁▁▁▁▁▁▁▁▁▁▁ 1%
+Lvl 2 - Building MeanLook
+▂▁▁▁▁▁▁▁▁▁▁▁▁▁ 2%
 
 @nik_cache
 
